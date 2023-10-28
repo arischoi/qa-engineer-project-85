@@ -6,7 +6,7 @@
   prerequisites: |
     Данных нет
   test-data: |
-   Логин (почта) = irengonch@yandex.ru Пароль = 123456
+    Логин (почта) = irengonch@yandex.ru Пароль = 123456
   steps:
     - Нажать кнопку "Sign up"
     - Вводим почту
@@ -83,7 +83,7 @@
   prerequisites: |
     Пользователь не авторизован
   test-data: |
-   Логин (почта) = irengonch@yandex.ru Пароль = 123456
+    Логин (почта) = irengonch@yandex.ru Пароль = 123456
   steps:
     - Нажать кнопку пробной игры с ботом
     - Убедиться в запуске пробной игры с ботом
